@@ -1,0 +1,39 @@
+@charset "UTF-8";
+/*!
+* Start Bootstrap - Shop Homepage v5.0.6 (https://startbootstrap.com/template/shop-homepage)
+* Copyright 2013-2023 Start Bootstrap
+* Licensed under MIT (https://github.com/StartBootstrap/startbootstrap-shop-homepage/blob/master/LICENSE)
+*/
+/*!
+ * Bootstrap  v5.2.3 (https://getbootstrap.com/)
+ * Copyright 2011-2022 The Bootstrap Authors
+ * Copyright 2011-2022 Twitter, Inc.
+ * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+ */
+
+ 
+.modal-img {
+  max-width: 100%;
+  height: auto;
+}
+
+body{
+  background-image: linear-gradient(
+      to right, #8360c3, #2ebf91);
+}
+
+.bg {
+  background-image: linear-gradient(
+      to right, #9796f0, #fbc7d4
+  );
+}
+
+.nav_crystalline {
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
+
+.header {
+  background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+}
